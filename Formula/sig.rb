@@ -1,9 +1,9 @@
 class Sig < Formula
   desc "A Simple Sig CLI"
   homepage "https://github.com/melotusme/homebrew-sig"
-  url "https://github.com/melotusme/sig/archive/0.0.1.zip"
-  sha256 "14b2d4435ac6395d9155d0fe8ec3905ef6d74ba8da1f396af56b9a10e1104d10"
-  version "0.0.1"
+  url "https://github.com/melotusme/sig/archive/v0.0.2.zip"
+  sha256 "ebcb2886a1f2e2110f699feb04b90f77c83b477697633a3dbd4d5d3432925b94"
+  version "v0.0.2"
 
 
   depends_on "go" => :build

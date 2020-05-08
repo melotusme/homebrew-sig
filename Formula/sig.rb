@@ -6,6 +6,5 @@ class Sig < Formula
 
   def install
     bin.install Dir["bin/*"]
-    bin
   end
 end
